@@ -6,3 +6,6 @@ Adder - pipelined prefix adder
 Multiplier - pipelined wallace tree multiplier
 Shifter rotater - pipelined barrel shifter
 </pre>
+
+<b>
+Work still going on....
